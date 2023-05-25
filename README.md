@@ -1,2 +1,2 @@
-# jdune: Java Basics Revisit
+# Jdune: Java Basics Revisit
 ## Catalog
